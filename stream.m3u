@@ -364,14 +364,6 @@ https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeSul.br",Rede Sul (720p)
 https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTVES.br",Rede TV! ES (720p)
-https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
-#EXTINF:-1 tvg-id="RedeTVMais.br",Rede TV! Mais (720p)
-https://stmv7.samcast.com.br/playredetvmais/playredetvmais/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPampa.br",Rede TV! Pampa (720p) [Not 24/7]
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br",Rede TV! SP (720p) [Not 24/7]
-https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeUTV.br",Rede UTV (720p)
 https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br",Rede Vida (720p) [Not 24/7]
@@ -498,13 +490,13 @@ http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/116.m3u8
 http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/6411.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Globo Minas HD" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo Minas HD
 http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/124.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Globo Bahia" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo Bahia
+#EXTINF:-1 tvg-id="" tvg-name="TV Bahia" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo Bahia
 http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/114.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Globo Bahia HD" tvg-logo="http://m3u.win/images/canais/globo-bahia.png" group-title="Canais Abertos",Globo Bahia HD
+#EXTINF:-1 tvg-id="" tvg-name="TV Bahia HD" tvg-logo="http://m3u.win/images/canais/globo-bahia.png" group-title="Canais Abertos",Globo Bahia HD
 http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/6219.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV TEM Bauru" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo Bauru
 http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rede Liberal Belem" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo Belem
+#EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belem" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo Belem
 http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/113.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Globo Brasilia" tvg-logo="http://m3u.win/images/canais/globo.png" group-title="Canais Abertos",Globo Brasilia
 http://server1.s3rv3r.club:25461/live/GNOl5wd4jd/fv19nHiwPr/128.m3u8
